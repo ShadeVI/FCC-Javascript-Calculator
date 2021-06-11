@@ -1,0 +1,22 @@
+.pad-grid {
+    margin: auto 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+}
+
+.pad-btn {
+    padding: 20px;
+    border: 1px solid black;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.pad-btn:hover {
+    background-color: #aaa;
+}
+
+.span-2 {
+    grid-column: 2/4;
+}

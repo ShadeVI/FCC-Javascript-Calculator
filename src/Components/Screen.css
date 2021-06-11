@@ -1,0 +1,11 @@
+.screen {
+    background-color: black;
+    height: 80px;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    color: white;
+    font-size: 32px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}

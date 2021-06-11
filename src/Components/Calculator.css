@@ -1,0 +1,13 @@
+.calculator {
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: lightgrey;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+}
